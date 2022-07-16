@@ -2,4 +2,4 @@ A
 B
 D
 issues solve 
-add 
+add
