@@ -1,0 +1,6 @@
+train: D:\yolov5-master\data\plate_face\train\images
+val: D:\yolov5-master\data\plate_face\valid\images
+test: D:\yolov5-master\data\plate_face\test\images
+
+nc: 2
+names: ['face', 'plate']
